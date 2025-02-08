@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrikantdige23
-- 👀 I’m interested in development
-- 🌱 I’m currently learning java and web development
-- 📫 How to reach me shrikantdige23@gmail.com
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning and Building Projects using Java and web development
+- 📫 How to reach me shrikant.sh.dige@gmail.com
 
 <!---
 Shrikantdige23/Shrikantdige23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
